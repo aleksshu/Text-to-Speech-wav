@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.845,=C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=E:\Progr_proj\TTS\tts_my_8_Berlin\TTSVoice.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,=C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Progr_proj\TTS\tts_my_8_Berlin\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Unit1.h=E:\Progr_proj\TTS\tts_my_8_Berlin\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,=E:\Progr\Repository\SAPI5\Pack\XE5\SAPI\Imports\sapi\SpeechLib_TLB.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Project1.cbproj=E:\Progr_proj\TTS\tts_my_8_Berlin\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,=C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=E:\Progr\Repository\SAPI5\Pack\XE5\SAPI\Imports\sapi\SpeechLib_OCX.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Unit1.cpp=E:\Progr_proj\TTS\tts_my_8_Berlin\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,=E:\Progr\Repository\SAPI5\Pack\XE5\SAPI\Imports\sapi\SpeechLib_OCX.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=E:\Progr\Repository\SAPI5\Pack\XE5\SAPI\Imports\sapi\SpeechLib_TLB.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,=C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,=C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,=C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,=C:\Users\Avatar\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

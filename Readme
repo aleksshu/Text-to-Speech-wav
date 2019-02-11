@@ -1,0 +1,4 @@
+SW for transfer text to speech voice or wave audio file.
+Please ensure that Embarcadero RAD Studio C++ installed on your Windows so you may build it.
+
+You also need installed TTS Voice in your Windows for your Language.
